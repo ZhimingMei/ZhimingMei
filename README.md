@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Zhiming's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhimingMei)](https://github.com/ZhimingMei/github-readme-stats)
+
 <!--
 **ZhimingMei/ZhimingMei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
