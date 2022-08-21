@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-[![Zhiming's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhimingMei)](https://github.com/ZhimingMei/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZhimingMei&show_icons=true&bg_color=00000001&hide_title=true&hide_border=true" />
+
+
+🧑🏻‍💻 I' m Zhiming from The Chinese University of Hong Kong, Shenzhen.    
+
+📫 How to reach me:   
+Personal E-mail: ryanmei0716@gmail.com
+
 
 <!--
 **ZhimingMei/ZhimingMei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
